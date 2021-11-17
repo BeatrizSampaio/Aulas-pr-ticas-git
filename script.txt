@@ -1,0 +1,12 @@
+{
+  "Version": "1.0.0",
+  "Tools": [
+    {
+      "Name": "linux::ldiag",
+      "Version": "4.42",
+      "Arguments": "Motherboard Chipset test", "Memory Address Test",
+      "Executions": 1,
+      "Current": 1,
+      "Reboot": true
+      }
+     }
